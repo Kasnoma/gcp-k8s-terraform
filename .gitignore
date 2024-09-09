@@ -1,0 +1,9 @@
+gke/
+.terraform/*
+.terraform.lock.hcl
+helm.tar.gz
+secret.json
+s.json
+massive.json
+terraform-2/.terraform/providers/registry.terraform.io/hashicorp/*
+terraform-2/.terraform/providers/*
